@@ -1,0 +1,3 @@
+Latex slide template, based on http://kom.aau.dk/~jkn/latex/latex.php.
+
+I change original template for chinese fonts support, and use xelatex to generate pdf for convenience.
